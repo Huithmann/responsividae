@@ -1,2 +1,2 @@
-# responsividae
+# responsividade
 respinsividade
